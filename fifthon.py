@@ -109,7 +109,7 @@ async def _(event):
 ☆ Ping : `{ms}`
 ☆ Date : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ Source fifthon : @TEPTHON**
+☆ Source fifthon : @LZZZ6**
 ''')
 
 
@@ -142,7 +142,7 @@ ownerhson_id = 5307018300
 async def OwnerStart(event):
     sender = await event.get_sender()
     if sender.id == ownerhson_id :
-        order = await event.reply('** Hi MY Developer - @B_8_1 **')
+        order = await event.reply('** Hi MY Developer - @O_Q_M **')
 
 
 @fifthon.on(events.NewMessage(outgoing=True, pattern=r"\.اعادة تشغيل"))
