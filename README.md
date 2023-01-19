@@ -1,7 +1,7 @@
 ### تونسو و ادعولي
- ###  https://t.me/B_8_1     
+ ###  https://t.me/LZZZ6     
   
-  ### https://t.me/S8Y8S
+  ### https://t.me/O_Q_M
 
 ### A للتنصيب على هيروكو
 
