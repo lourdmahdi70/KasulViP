@@ -310,7 +310,7 @@ async def _(event):
                             channel=ch, username=username))
                         await event.client.send_message(event.chat_id, f'''
 - Done ↣ (@{username})
-- By ↣ @S8Y8S - @N1111V !
+- By ↣ @O_Q_M - @LZZZ6 !
 - Hunting History ↣ {Hussenk}
 - Hunting Hour ↣ {Levii}
     ''')
