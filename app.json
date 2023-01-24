@@ -1,7 +1,7 @@
 {
     "name": "Tepthon",
     "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
-    "logo" : "https://telegra.ph/file/09a6b0d947cfb8423a2d1.jpg",
+    "logo" : "https://telegra.ph/file/4ab5698a5105c848c4b4e.jpg
     "stack": "container",
     "repository": "https://github.com/perdark/per-sed",
     "keywords": [
@@ -13,7 +13,7 @@
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
-            "value": "9514755",
+            "value": "5814191030",
             "required": true
         },
         "APP_HASH": {
